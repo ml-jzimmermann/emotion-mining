@@ -5,8 +5,8 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
-/data/
-**/data/
+#/data/
+#**/data/
 
 **/gifs/*
 **/outputs/*
